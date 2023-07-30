@@ -1,0 +1,36 @@
+# AVS field file
+#
+# AutoDock Atomic Affinity and Electrostatic Grids
+#
+# Created by C:/DrugDesign/autogrid4.exe.
+#
+#SPACING 0.325
+#NELEMENTS 64 96 30
+#CENTER 1.052 22.675 -21.404
+#MACROMOLECULE 3pgf.pdbqt
+#GRID_PARAMETER_FILE C:/DrugDesign/3pgf.gpf
+#
+ndim=3			# number of dimensions in the field
+dim1=65			# number of x-elements
+dim2=97			# number of y-elements
+dim3=31			# number of z-elements
+nspace=3		# number of physical coordinates per point
+veclen=5		# number of affinity values at each point
+data=float		# data type (byte, integer, float, double)
+field=uniform		# field type (uniform, rectilinear, irregular)
+coord 1 file=3pgf.maps.xyz filetype=ascii offset=0
+coord 2 file=3pgf.maps.xyz filetype=ascii offset=2
+coord 3 file=3pgf.maps.xyz filetype=ascii offset=4
+label=C-affinity	# component label for variable 1
+label=HD-affinity	# component label for variable 2
+label=OA-affinity	# component label for variable 3
+label=Electrostatics	# component label for variable 3
+label=Desolvation	# component label for variable 4
+#
+# location of affinity grid files and how to read them
+#
+variable 1 file=3pgf.C.map filetype=ascii skip=6
+variable 2 file=3pgf.HD.map filetype=ascii skip=6
+variable 3 file=3pgf.OA.map filetype=ascii skip=6
+variable 4 file=3pgf.e.map filetype=ascii skip=6
+variable 5 file=3pgf.d.map filetype=ascii skip=6
