@@ -20,7 +20,7 @@ The structure of the receptor (screenshot) :
 
 ![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a86cf786-32ff-4adb-a0d3-e56a2137c080)
 
-The functionality/type/aim of the receptor (Research, provide a reference) : 
+The functionality/type/aim of the receptor : 
 
 Functionality: 
 
@@ -48,7 +48,7 @@ Once the folding has taken place, the precursor can't enter in the translocation
 
 ![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/71b6cc3d-1065-40e4-92a1-90c746edfd44)
 
-How many chains the receptor has, if many, are they similar or different and how you will deal with them : 
+How many chains the receptor has, if many, are they similar or different and how to deal with them : 
 
 3 Unique.  
 
@@ -80,7 +80,7 @@ The structure of the ligand :
 
 ![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/29db99c0-d23d-4372-a71e-d15ad06d52b5)
 
-The functionality/aim of the ligand, how it affects the receptor (Research, provide a reference) : 
+The functionality/aim of the ligand, how it affects the receptor : 
 
 Functionality : 
 
@@ -123,7 +123,7 @@ SEQRES of 3pgf.pdb:
 
 ![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/e07e826c-9fba-416b-af86-786e0b5abbd8)
 
-Docking process of your chosen ligand and receptor:  
+Docking process of chosen ligand and receptor:  
 
 Mentioning the preparation needed for the receptor and the ligand : 
 
@@ -227,7 +227,7 @@ Apply blind docking on ligand and receptor.
 
 ![13](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8011041d-954d-4c40-b78f-25ffd270a6fa)
 
-Show your analysis and comment on the your findings. Which docking you have applied? (flexible or rigid) docking.  
+Show analysis with comment on the findings. Which docking have been applied? (flexible or rigid) docking.  
 
 This is Rigid Docking as receptor/protein was fixed , we only treated ligand as flexible and changed its configuration.  
 
@@ -307,18 +307,31 @@ Binding Affinity Energy changed from -4.03 in blind docking best rank was run no
 
 References :  
 
--Here’s the paper we used a reference to select our protein and ligand, It shows some pairs of protein and its suitable ligand and pdf in files as well: 
+-Here’s the paper used a reference to select our protein and ligand, It shows some pairs of protein and its suitable ligand and pdf in files as well: 
+
+[https://www.intechopen.com/chapters/43121](Ref-1)
 
 -Protein PDB: 
 
+[https://www.rcsb.org/structure/3PGF](Ref-2)
+
 -Protein Journal: 
+
+[https://www.nature.com/articles/nsmb.2002](Ref-3)
 
 -Protein Journal on PubMed: 
 
+[https://pubmed.ncbi.nlm.nih.gov/21378967/](Ref-4)
+
 -Ligand from PubChem: 
+
+[https://www.nature.com/articles/nsmb.2002](Ref-5)
 
 -Reference on active binding sites in MBP protein: 
 
--We used the AutoDock documentation file that’s attached in the submitted files to solve some errors we faced while working:
+[https://www.nature.com/articles/nsmb.2002](Ref-6)
 
+-The AutoDock documentation file that’s attached in the submitted files to solve some errors we faced while working:
+
+[https://autodock.scripps.edu/wp-content/uploads/sites/56/2021/10/AutoDock4.2.6_UserGuide.pdf](Ref-6)
 
