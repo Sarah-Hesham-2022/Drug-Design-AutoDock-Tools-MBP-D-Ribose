@@ -14,11 +14,11 @@ Maltose-binding periplasmic protein (MBP)
 
 The structure of the receptor (screenshot) :
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/f965ec96-db7e-4053-8417-bae5af7ccf91)
+![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/c378177b-2765-4f02-990b-e5a09b13181b)
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/625fffd2-3903-41fb-9573-44adad90b8e3)
+![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/68931966-e8d3-4134-9e54-6cee10dc5fc8)
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a86cf786-32ff-4adb-a0d3-e56a2137c080)
+![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8b20abce-2a31-492b-9ef5-c1bcc3018b8f)
 
 The functionality/type/aim of the receptor : 
 
@@ -42,11 +42,11 @@ Once the folding has taken place, the precursor can't enter in the translocation
 
 [https://www.rcsb.org/structure/3PGF](Reference-3)
 
-![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7198c211-74d8-4d7f-8d7d-7ca106726e77)
+![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6c5be2ba-1dc3-4f77-991c-04ea24dd0b86)
 
-![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/23b38802-dc84-4ef1-9f9d-6619663788da)
+![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b0a554ee-615b-4643-a97e-9baa4e40bd0b)
 
-![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/71b6cc3d-1065-40e4-92a1-90c746edfd44)
+![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/bcadd066-108e-43bd-9bea-957a65d5fa04)
 
 How many chains the receptor has, if many, are they similar or different and how to deal with them : 
 
@@ -58,7 +58,7 @@ A is our target as it works on Escherichia coli K-12 target organism.
 
 So, to be kept, but others B,C work on Homo sapiens not target organism in this project.
 
-![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/15fb0613-8f32-4272-a6a8-38380983199a)
+![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/549b220a-a3ed-4b4a-b71b-694c35a7e046)
 
 Does the receptor/protein need activators or inhibitors? 
 
@@ -76,9 +76,9 @@ D-Ribose
 
 The structure of the ligand : 
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/f6072679-555d-4baf-813d-c0c89658aca7)
+![8](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/46c8dca8-05c4-4d7c-9dcf-a2209af92401)
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/29db99c0-d23d-4372-a71e-d15ad06d52b5)
+![9](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/bef138fb-22ab-48a4-b94d-fc8b1560fcda)
 
 The functionality/aim of the ligand, how it affects the receptor : 
 
@@ -95,13 +95,13 @@ How it affects receptor: Ribose is a metabolite found in or produced by Escheric
 
 [https://pubchem.ncbi.nlm.nih.gov/compound/10975657](Reference-2)
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/ff027630-1223-4d6a-a47d-cbfd640e7b15)
+![10](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/ff561698-6570-41dc-bd59-03dac8ba30a4)
 
 When obtaining the ligand was the format suitable for docking. If not, how you have dealt with it:  
 
 No, it was in SDF format , OpenBabel was used to covert it to PDB format.
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/bc338fd5-5ad4-4104-bc4d-f0517ed1d6a3)
+![11](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/1bc6d2c7-f3f3-4a71-b3b9-ef3b6a56c363)
 
 Some Information worth mentioning: 
 
@@ -109,19 +109,19 @@ Paper helped to get perfect protein/ligand pairs for docking :
 
 [https://www.intechopen.com/chapters/43121](Paper-Link)
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/c55156d7-5ce8-4426-9b66-ab1f8e5bd6d7)
+![12](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8ad93bb5-12ff-439e-afb3-45bc59fbd5b6)
 
 Protein Author:
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b08872b8-3d13-4430-8aa8-1f375b252288)
+![13](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7b0f23e5-b51a-4ee3-9580-46edd07ac360)
 
 X-Ray Crystallization done on protein experiment: 
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6f5e537a-d318-498c-8278-43ba289392d3)
+![14](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/bee58218-1a09-417a-ae4c-09dc9a17fe3f)
 
 SEQRES of 3pgf.pdb: 
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/e07e826c-9fba-416b-af86-786e0b5abbd8)
+![15](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/946179a8-99dc-44ae-8cb9-b8a0684c64fa)
 
 Docking process of chosen ligand and receptor:  
 
@@ -131,101 +131,101 @@ Receptor:
 
 1) Delete Water
 
-![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/28fab8c4-ffdb-4a9c-bbba-089c0d557873)
+![16](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/87bde314-cee5-4379-afaa-7abe11786e6a)
 
 2) Keep only active site A chain and remove others
 
-![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7b36a5e6-5ddd-4b6f-a94e-d36ba48c466d)
+![17](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/2e2868cc-1897-4f8d-a4df-ec9769e2d3c2)
 
 3) Delete Selected Atoms
-
-![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/523ac3d1-fce5-4ba2-a7d7-86e97f612a09)
+ 
+![18](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8f0fe0ec-f973-448e-a91a-0f86f19d2126)
 
 4)Add Polar Hydrogen Atoms 
 
-![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8b1fb147-0e4e-4417-baa0-72754a637bf2)
+![19](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/9b0b67d3-0b95-4c0e-8731-3ea557d9dfa2)
 
 5) Add Kollman Charges
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/e3cf5152-8a99-4eee-a052-98161722aa5e)
+![20](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3ad9dc17-e31d-4f7d-9331-25859567d868)
 
 6) Assign AD4 Atoms Type 
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/2c73c9b8-d99d-4612-8dba-550dda4b2e2c)
+![21](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/308e6eed-d96f-4bed-8f13-28a4e0d01dc6)
 
 7) Save as PDBQT file extension
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/dd8968cb-8f92-4d7e-961a-64ae887e4067)
+![22](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/de8173cf-4867-44b2-9a63-eb5e1a0ca3f2)
 
 Receptor:  
 
 1) Input Ligand
 
-![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3ee7595d-6ef1-4448-b42a-78f0afc7ae35)
+![23](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6ac4161d-c1cc-4f50-81e1-88671811d941)
 
 2) Detect Root:
 
-![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/9d909acd-9ec0-4833-9786-f1dadcd6175c)
+![24](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7f820bff-87b0-45c1-82fc-31e9e311e60c)
 
-3) Save as PDBQT File:
+4) Save as PDBQT File:
 
-![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8ad6cd72-ce27-4a31-a43c-ef24eb8bef59)
+![25](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/dc02a5b9-c51a-4cac-bb6c-c908d4a6c088)
 
 Torsional Degrees of Freedom Of Ligand: 
 
-![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a5b8a9e2-606a-4cbe-8288-148ef126ad4f)
+![26](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/43706d47-1c8e-4bba-b350-a289de2a49e0)
 
 Apply blind docking on ligand and receptor.  
 
 1)  Add Macromolecule to autogrid:
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b0964505-850f-4e41-beb9-367e3d323677)
-  
+![27](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/81531a4d-0689-4689-a932-53690b293c89)
+
 2)  Add Ligand to autogrid:
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/d38b4d38-e8e0-4172-acf0-fc62d4eda60a)
+![28](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/2f2c1f77-a8bc-4d68-b65a-556b181b205d)
 
 3)  Draw Grid Box:
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/9462cdec-a4ab-4722-9240-aa21c1857a1b)
+![29](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/80e6663a-7c7e-43b7-810c-b1c1a76d45d6)
 
 4)  Close Saving Current:
-
-![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/21ce13e6-76c3-495c-a77a-176521a8b724)
+ 
+![30](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6f91df13-0ab9-4c32-a48e-2ab97096b9e5)
 
 5)  Save GPF File:
 
-![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/51b2a005-e341-4bdd-a610-198075b3fa49)
+![31](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a5120563-b3e6-4cc3-a963-5e48c55ee713)
 
 6)  Run AutoGrid 4 :
 
-![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6be2e5f9-3ad6-4d0d-b46f-246d144e3b4b)
+![32](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/f0352ead-82be-44e0-af7b-fda3408d4649)
 
 7)  Add MacroMolecule to autodock:
 
-![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3d72c3ad-efa3-40b2-a827-54226d8ae40a)
+![33](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/9bc3cdb4-27e1-4c11-bb25-5cdd9456e263)
 
 8)  Add Ligand to autodock:
 
-![8](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a43e6577-88b9-4e2d-b844-0b91930a3f5b)
+![34](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b0da2651-f491-4ce6-a7e4-aa0d9d8041bb)
 
 9)  Accept Ligand Parameters:
 
-![9](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/406fa7b7-3491-4abd-b1d9-dea8a91d3349)
+![35](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3010f089-2d0e-4c40-b5f2-439232895d5a)
 
 10)  Set Search Parameters to Genetic Algorithms: 
 
-![10](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/cc24f777-9a88-473b-91b0-cfdf9621c34f)
+![36](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/da44cb8c-bdea-4f18-82a8-cab58c5fd0a3)
 
 11)  Save Docking Output to Lamarckian:
 
-![11](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/31044cf8-3dae-4f55-a0b7-5053d4426720)
+![37](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/93e46c5c-7ffe-4317-a437-a057c3322b39)
 
 12)  Run AutoDock:
 
-![12](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/33ead1a6-5f26-4d89-b5de-3ea761d72222)
+![38](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/bc3c6007-dc95-4a1a-beb7-5ad14457c4f9)
 
-![13](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8011041d-954d-4c40-b78f-25ffd270a6fa)
+![39](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b0eec811-42fb-4c7b-820b-d9ae1a3571b4)
 
 Show analysis with comment on the findings. Which docking have been applied? (flexible or rigid) docking.  
 
@@ -235,35 +235,35 @@ Analysis:
 
 1) Delete all molecules :
 
-![14](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/06e7e4bf-e371-4ca3-8e30-4fb45df0d4df)
+![40](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/672b7792-71b5-4265-b16d-d44f351ba91e)
 
 2) Analyze DLG file: 
 
-![15](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/6e61bd1b-3fa1-4b3c-9457-a58436cabccc)
+![41](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/37615865-d608-432f-bade-3ca762fd7de2)
 
 3) Analyze Macromolecule Open:  
 
-![16](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/692d9b3d-9871-4759-8c5d-fa8c29c9ad58)
+![42](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/9f64ed9e-e962-4cb2-9428-6bf97198b962)
 
 4) Analyze Info: 
 
-![17](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/e06caaf5-3243-47ed-b878-2ffc1a205938)
+![43](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3dc01a35-6c24-48bd-82d5-d37459916fcd)
 
 5) Best Binding Energy Run no 4 According to RMSD Table Analysis in AutoDock -4.03 : 
 
-![18](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/0cc08cc6-00fe-4bcd-878e-3787e64d5f84)
+![44](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/77131186-beec-4e87-a5f3-335ea1b0324e)
 
 6) RMSD Table of DLG File Run 4 wins: 
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/238d9508-a05f-4460-85be-0cef418c5a17)
+![45](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a6597904-df5f-4f13-9228-9db415b5e183)
 
 7) Run 4 Details
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8528cab9-bbec-4df6-b9a3-83e82e467c9e)
+![46](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/83f0bc80-d0af-47e3-a333-3a337f05ca97)
 
 8) Final Directory Files: 
 
-![3](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/66f14695-fd02-44fc-9449-38be60886692)
+![47](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7f20f673-85ed-4d2a-a652-99bdff293051)
 
 Apply Site-specific Docking
 
@@ -274,32 +274,33 @@ Reference on active binding sites in MBP protein:
 
 [https://www.nature.com/articles/nsmb.2002](Reference)
 
-![4](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/a43d95bc-a8e1-41d5-ab94-2267ee649c3f)
+![48](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/ff5bef83-d95a-40b0-95f0-b5ede1281f2a)
 
 1) Select Active Sites in Protein: 
 
-![5](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/3a34f037-78bb-4313-acee-2809ef25a140)
+![49](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/71d1df78-c531-4a5e-ba80-6b31c02de63f)
 
 2) Draw Grid Box Only around these active site: 
 
-![6](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/8b74ae36-ea62-4250-b50f-2615b43fedb8)
+![50](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7713259f-87b6-4e51-83e5-32c30260a7e1)
 
 3) Run AutoGrid: 
 
-![7](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/7f9ad91c-e29c-4286-b355-c0d01436357a)
+![51](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/49cd211b-32d1-4a19-b84f-2b18b44b4e1f)
 
 4) From Analysis to find run 7 of rank 1 of least binding affinity energy -4.71 : 
 
-![8](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/b53a58f3-0706-4646-802f-053b9845302d)
+![52](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/17954837-af85-4d6e-a13d-c1e38b920ab1)
 
-5) RMSD Table : 
+5) RMSD Table :
 
-![1](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/57c330e7-670b-487c-a3da-dd82e40b7d43)
+![53](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/115b8ca8-8d22-402d-88d5-25e5528ca833)
 
 6) Run 7 Details:
 
-![2](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/f34c2f55-9e23-4cfe-abf0-2523ad62d2d9)
+![54](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/55b3c357-8da6-44ba-aca2-6849aaa7fa6f)
 
+![55](https://github.com/Sarah-Hesham-2022/Drug-Design-AutoDock-Tools-MBP-D-Ribose/assets/112272836/e4b2b694-88ab-4cf8-b04c-4ae73f950ff0)
 
 Final note : 
 
